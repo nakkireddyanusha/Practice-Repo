@@ -1,0 +1,6 @@
+git status
+On branch hello-world-images
+Changes to be committed:
+  (use "git restore --staged ..." to unstage)
+    new file: img_hello_world.jpg
+    modified: index.html
