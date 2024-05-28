@@ -4,7 +4,7 @@ and intelligence—over the Internet to offer faster innovation, flexible resour
 The main three types of cloud computing are public cloud, private cloud, and hybrid cloud. 
 
 
-PAAS ------- platform as service
-IAAS ------- Infrastructure as a service
-SAAS ------- Sofware as service 
+PAAS ------- platform as service         --------   A.elastic beanstalk, heroku
+IAAS ------- Infrastructure as a service ---------- EC2, EKS, ECS, Azure.
+SAAS ------- Sofware as service          ---------- Gmail, Trello, Dropbox
  
