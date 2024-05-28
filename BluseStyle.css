@@ -6,3 +6,9 @@ body {
     color: navy;
     margin-left: 20px;
     }
+
+    git merge emergency-fix
+Updating 09f4acd..dfa79db
+Fast-forward
+ index.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
