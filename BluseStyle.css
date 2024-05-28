@@ -7,8 +7,13 @@ body {
     margin-left: 20px;
     }
 
-    git merge emergency-fix
-Updating 09f4acd..dfa79db
-Fast-forward
- index.html | 2 +-
- 1 file changed, 1 insertion(+), 1 deletion(-)
+    h1 {
+        color: blue;
+        font-family: verdana;
+        font-size: 300%;
+      }
+      p {
+        color: red;
+        font-family: courier;
+        font-size: 160%;
+      }
